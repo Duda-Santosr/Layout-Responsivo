@@ -3,10 +3,11 @@
 
 * Tela Desktop💻
   
-![image](https://github.com/user-attachments/assets/ce8b1141-ae0c-4a75-b43b-f500d2217c5e)
+![Captura de tela 2024-10-21 161413](https://github.com/user-attachments/assets/ca95b797-c6cf-4b19-b898-51cd77100d92)
 
 
 * Tela Mobile📱
   
-![image](https://github.com/user-attachments/assets/2589ab59-eff2-46cd-b6f6-f560026fa012)
+![Captura de tela 2024-10-21 161501](https://github.com/user-attachments/assets/709c2d0a-dc1e-4403-98a6-87610799ac38)
+
 
